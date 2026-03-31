@@ -57,4 +57,4 @@ This project is licensed under the [MIT License](https://github.com/ByteGS-tech/
 
 ---
 
-Thank you for visiting our Homelab! Don't forget to **star** our repositories and follow our tech adventures 🚀.
+Thank you for visiting my Homelab! Don't forget to **star** my repositories and follow my tech adventures 🚀.
