@@ -9,9 +9,9 @@
 
 ## 🌐 About Us
 
-Welcome to the official repository of **[Your Organization] Homelab**, a place where we explore, develop, and implement tech solutions from our personal lab. We have a group of dedicated collaborators passionate about **cybersecurity**, **automation**, **web development**, and more.
+Welcome to the official repository of **ByteGuardShield Technologies Homelab**, a place where I explore, develop, and implement tech solutions from / to my personal homelab.
 
-Here, we upload projects related to our infrastructure, solutions, and tools that we develop and use in our homelab. If you're interested in DIY tech, cybersecurity, and virtualized environments, this is the place for you!
+Here, I upload projects related to my infrastructure, solutions, and tools that I develop and use in my homelab. If you're interested in DIY tech, cybersecurity, and virtualized environments, this is the place for you!
 
 ---
 
@@ -19,19 +19,21 @@ Here, we upload projects related to our infrastructure, solutions, and tools tha
 
 *Coming Soon!*
 
-Explore all our projects in the [repositories](https://github.com/ByteGS-tech?tab=repositories) section.
+Explore all of my projects in the [repositories](https://github.com/ByteGS-tech?tab=repositories) section.
 
 ---
 
 ## 👥 Collaborators
 
-We are proud to work with a team of tech enthusiasts. Meet our [contributors](https://github.com/ByteGS-tech/ByteGS-tech/graphs/contributors)!
+I'm currently working by myself on this homelab. If you want to know me better, check out my [personal repo](https://github.com/userS4B0) 
+
+Meet our contributors [contributors](https://github.com/ByteGS-tech/ByteGS-tech/graphs/contributors)!
 
 ---
 
 ## 📫 How to Contribute
 
-We're always open to new ideas and contributions! If you're interested in collaborating on one of our projects, follow these steps:
+I'm always open to new ideas and contributions! If you're interested in collaborating on one of my homelab projects, follow these steps:
 
 1. **Fork** one of our repositories.
 2. Create a branch for your feature or fix: `git checkout -b feature/new-feature`.
@@ -41,11 +43,11 @@ Please review our [Code of Conduct](https://github.com/ByteGS-tech/ByteGS-tech/b
 
 ---
 
-## 🛠️ Technologies We Use
+## 🛠️ Technologies I Usually apply
 
-- **Languages**: PHP, Python, Bash, and more.
+- **Languages**: Python, Bash, and more.
 - **Tools**: Docker, Ansible, Git, and virtualization technologies.
-- **Cybersecurity**: Penetration testing, security automation, network audits.
+- **Cybersecurity**: security automation, network audits.
 
 ---
 
