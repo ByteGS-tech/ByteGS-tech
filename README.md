@@ -2,8 +2,8 @@
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/ByteGS-tech?style=social)](https://github.com/ByteGS-tech)
 [![GitHub followers](https://img.shields.io/github/followers/ByteGS-tech?label=Follow&style=social)](https://github.com/ByteGS-tech)
-[![GitHub contributors](https://img.shields.io/github/contributors/ByteGS-tech/[YOUR_REPO])](https://github.com/ByteGS-tech/[YOUR_REPO]/graphs/contributors)
-[![License](https://img.shields.io/github/license/ByteGS-tech/[YOUR_REPO])](https://github.com/ByteGS-tech/[YOUR_REPO]/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/ByteGS-tech/ByteGS-tech)](https://github.com/ByteGS-tech/[YOUR_REPO]/graphs/contributors)
+[![License](https://img.shields.io/github/license/ByteGS-tech/ByteGS-tech)](https://github.com/ByteGS-tech/ByteGS-tech/blob/main/LICENSE)
 
 ---
 
@@ -25,7 +25,7 @@ Explore all our projects in the [repositories](https://github.com/ByteGS-tech?ta
 
 ## 👥 Collaborators
 
-We are proud to work with a team of tech enthusiasts. Meet our [contributors](https://github.com/ByteGS-tech/[YOUR_REPO]/graphs/contributors)!
+We are proud to work with a team of tech enthusiasts. Meet our [contributors](https://github.com/ByteGS-tech/ByteGS-tech/graphs/contributors)!
 
 ---
 
@@ -37,7 +37,7 @@ We're always open to new ideas and contributions! If you're interested in collab
 2. Create a branch for your feature or fix: `git checkout -b feature/new-feature`.
 3. Submit a **pull request** explaining your changes.
 
-Please review our [Code of Conduct](https://github.com/ByteGS-tech/[YOUR_REPO]/blob/main/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/ByteGS-tech/[YOUR_REPO]/blob/main/CONTRIBUTING.md).
+Please review our [Code of Conduct](https://github.com/ByteGS-tech/ByteGS-tech/blob/main/CODE_OF_CONDUCT.md) and [Contribution Guidelines](https://github.com/ByteGS-tech/ByteGS-tech/blob/main/CONTRIBUTING.md).
 
 ---
 
